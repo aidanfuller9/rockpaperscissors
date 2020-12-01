@@ -1,0 +1,52 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color:#29c3c3:
+}
+
+h1 {
+  font-style: italic;
+  color: black;
+  display:flex;
+  justify-content:center;
+  font-family: 'Epilogue', sans-serif;
+}
+
+.RPS-img {
+  display:flex;
+  justify-content:center;
+  border: 5px solid black;
+}
+
+
+.input-box{
+  display:flex;
+  justify-content:center;
+}
+
+.computer{
+  display:flex;
+  justify-content:flex-end;
+}
+
+.result{
+  display:flex;
+  justify-content:center;
+}
+
+.choice-text{
+  display:flex;
+  justify-content:center;
+}
+
+.Input{
+  display:flex;
+  justify-content:center;
+}
+
+.submit-button{
+  display:flex;
+  justify-content:center;
+}
