@@ -1,7 +1,8 @@
 let computerSign 
 $(".submit-button").click(function(){
   
-
+//my computer crashed sorry
+  
 let inputAnswer = $(".input-box").val();
   if(inputAnswer!="Rock"&&inputAnswer!="Paper"&&inputAnswer!="Scissors")
     alert("Choose again");
